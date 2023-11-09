@@ -6,6 +6,6 @@
 ![NegativeGravity](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/029542fd-abb7-441c-9088-0f8579c79f9b)
 
 02 Lerp Effect
-- Use particle position attribute as lerp value to trigger other properties like color and curl noise
+- Use particle position attribute as lerp value to trigger other particle properties like color or curl noise
 ![Screenshot 2023-11-09 211001](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/e5fa5d9d-b4f3-45db-9af8-86a54a223f2e)
 ![LerpEffect](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/73ba6553-7a03-424e-ba4f-5c474f24c047)
