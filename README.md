@@ -12,4 +12,6 @@
 
 03 Scale Affect
 - scale Niagara particles based on the position of BP Actor
-  ![ScaleAffect](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/e69bb3a4-c444-481c-bc4f-6566c8b80ddf)
+![ScaleAffect](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/e69bb3a4-c444-481c-bc4f-6566c8b80ddf)
+![ScaleAffect](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/dd995c81-3417-45e5-a1d8-22d555a92801)
+
