@@ -15,3 +15,8 @@
 ![ScaleAffect](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/e69bb3a4-c444-481c-bc4f-6566c8b80ddf)
 ![ScaleAffect](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/dd995c81-3417-45e5-a1d8-22d555a92801)
 
+04 ID Movement
+- Use unique particle ID(Execution Index attribute) to adjust particles' location, rotation and scale
+![Screenshot 2023-11-11 002139](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/73a8768b-3f4d-418c-be6a-529a7cd551ca)
+![Screenshot 2023-11-11 002319](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/1b3292ac-7af3-4ebb-bec5-8229d28168ed)
+
