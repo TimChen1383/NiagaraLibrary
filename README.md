@@ -20,3 +20,6 @@
 ![Screenshot 2023-11-11 002139](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/73a8768b-3f4d-418c-be6a-529a7cd551ca)
 ![Screenshot 2023-11-11 002319](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/1b3292ac-7af3-4ebb-bec5-8229d28168ed)
 
+05 Mesh Dissolve
+- Use the distance between particle position and specific position as lerp value to trigger vortex force
+![Screenshot 2023-11-11 105434](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/1ec73b9e-3a36-4b75-be6c-ecd8b2a21d97)
