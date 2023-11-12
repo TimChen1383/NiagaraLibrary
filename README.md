@@ -24,3 +24,9 @@
 - Use the distance between particle position and specific position as lerp value to trigger vortex force
 ![Screenshot 2023-11-11 105434](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/1ec73b9e-3a36-4b75-be6c-ecd8b2a21d97)
 ![MeshDissolve](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/428e21d6-fe89-498b-a706-bd61a57d58e2)
+
+06 Fluid Simulation
+- Calculation the collision of target object and all the particles. Give particles velocity when they get hit
+![FluidSimulation](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/1c4983eb-1b8b-4c3a-b58b-de5bdadd525f)
+![FluidSimulation](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/0e4bbe47-bf0c-4e34-afae-6ea1b64d9d24)
+
