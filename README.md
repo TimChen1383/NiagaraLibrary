@@ -30,3 +30,6 @@
 ![FluidSimulation](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/1c4983eb-1b8b-4c3a-b58b-de5bdadd525f)
 ![FluidSimulation](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/0e4bbe47-bf0c-4e34-afae-6ea1b64d9d24)
 
+07 Physics Collision
+- Physics collision with HLSL. BP Sphere generate main collide force. Others small sphere react with self collision
+![Collision](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/015d9999-9c36-4e3e-a197-a1c3a5d613f1)
