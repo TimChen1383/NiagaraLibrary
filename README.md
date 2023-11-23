@@ -37,5 +37,8 @@
 
 08 Circle Effect
 - Use particle ID and circle formula to draw a circular effect
+![Screenshot 2023-11-23 214157](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/218a7a6a-175f-4fa4-9b92-d97ae6c75c63)
+
+
 
 
