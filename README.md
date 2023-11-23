@@ -35,3 +35,7 @@
 ![Collision](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/015d9999-9c36-4e3e-a197-a1c3a5d613f1)
 ![PhysicsCollision](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/82fa81e5-6cf3-43f3-b657-3f6e0b5a8519)
 
+08 Circle Effect
+- Use particle ID and circle formula to draw a circular effect
+
+
