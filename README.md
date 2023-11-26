@@ -40,6 +40,10 @@
 ![Screenshot 2023-11-23 214157](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/218a7a6a-175f-4fa4-9b92-d97ae6c75c63)
 ![CircleEffect](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/9d0751a0-dd47-42a8-bb61-c1051098a3a6)
 
+09 Line Constraint
+- Line constraint effect wil Distance Constraint, Collision Constraint and Object Collision
+![LineConstraint](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/5d2ddc70-8219-409e-a120-9a3be1c46506)
+
 
 
 
