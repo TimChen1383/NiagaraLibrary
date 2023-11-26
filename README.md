@@ -42,6 +42,7 @@
 
 09 Line Constraint
 - Line constraint effect wil Distance Constraint, Collision Constraint and Object Collision
+![lineconstraint](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/ef6fc627-c989-4830-9adb-2bb3f44ee443)
 ![LineConstraint](https://github.com/TimChen1383/NiagaraScrathPad/assets/37008451/5d2ddc70-8219-409e-a120-9a3be1c46506)
 
 
