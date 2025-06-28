@@ -1,4 +1,4 @@
-# NiagaraScrathPad
+# Niagara Libeary
  
 01 Negative Gravity
 - When particles' age reach 1/3 of it's entire age, the gravity become negative 
